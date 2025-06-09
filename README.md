@@ -1,2 +1,2 @@
 # ProductBot
-Telegram bot for product
+Telegram bot for products for sale
